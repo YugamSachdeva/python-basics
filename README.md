@@ -1,19 +1,22 @@
 # Python Basics 🐍
 
-This repository contains my Python learning journey.  
-I created this repo to practice Python fundamentals, improve logic building, and work on basic DSA problems step by step.
+This repository represents my Python learning journey.  
+I created this repo to practice Python fundamentals, build logical thinking, and understand how core concepts work together.
 
-All programs here are written while learning and revising concepts, so the code is simple, readable, and easy to understand.
+All the programs here are written during learning and revision, keeping the code simple, clean, and easy to understand.
 
 ---
 
 ## 🚀 What I have practiced
 - Python data types and variables  
+- Input and output handling  
 - Conditional statements (if–else)  
 - Loops (for loop, while loop)  
 - Lists, tuples, and sets  
 - Dictionary operations  
 - User-defined functions  
+- Exception handling  
+- Working with Python modules  
 - Basic DSA problems (arrays, searching, logic)
 
 ---
@@ -24,14 +27,16 @@ All programs here are written while learning and revising concepts, so the code 
 - **loops/** – for loop, while loop, multiplication table  
 - **lists-tuples-sets/** – list, tuple, and set operations  
 - **dictionaries/** – dictionary practice programs  
-- **functions/** – different function-based programs  
+- **functions/** – user-defined functions and utilities  
+- **exceptions/** – try-except-finally examples  
+- **modules/** – usage of math and datetime modules  
 - **dsa/** – basic DSA problems implemented in Python  
 
 ---
 
-## 🧠 Why this repository
+## 🧠 Purpose of this repository
 I use this repository to keep my Python learning structured and organised.  
-It also helps me quickly revise concepts and track my progress over time.
+It also helps me revise concepts quickly and track my progress over time.
 
 ---
 
