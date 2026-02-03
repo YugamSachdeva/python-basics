@@ -17,7 +17,7 @@ All the programs here are written during learning and revision, keeping the code
 - User-defined functions  
 - Exception handling  
 - Working with Python modules  
-- Basic DSA problems (arrays, searching, logic)
+- Basic DSA problems (arrays, searching, logic)  
 
 ---
 
