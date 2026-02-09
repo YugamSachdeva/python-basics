@@ -1,9 +1,9 @@
 # Python Basics 🐍
 
 This repository represents my Python learning journey.  
-I created this repo to practice Python fundamentals, improve logical thinking, and understand how core concepts work together.
+I created this repo to practice Python fundamentals, improve logical thinking, and understand how core Python concepts work together.
 
-All the programs here are written during learning and revision, keeping the code simple, clean, and easy to understand.
+All the programs here are written during learning and revision, keeping the code simple, structured, and easy to understand.
 
 ---
 
@@ -16,8 +16,9 @@ All the programs here are written during learning and revision, keeping the code
 - Dictionary operations  
 - User-defined functions  
 - Exception handling  
-- Working with Python modules  
-- Basic DSA problems (arrays, searching, logic)  
+- File handling (read, write, append, file check)  
+- Working with Python modules (`math`, `datetime`)  
+- Basic DSA problems (arrays, searching, logic building)  
 
 ---
 
@@ -39,19 +40,22 @@ All the programs here are written during learning and revision, keeping the code
   Dictionary practice programs  
 
 - **functions/**  
-  User-defined functions and utilities  
+  User-defined functions and utility programs  
 
 - **exceptions/**  
   Try-except-finally examples  
 
 - **modules/**  
-  Usage of `math` and `datetime` modules  
+  Programs using `math` and `datetime` modules  
+
+- **file-handling/**  
+  File read/write/append programs, numeric file processing  
 
 - **dsa/**  
   Basic DSA problems implemented in Python  
 
 - **mini-projects/**  
-  Small Python projects like:
+  Small Python projects such as:
   - Simple Calculator  
   - Student Result Analyzer  
 
@@ -59,9 +63,9 @@ All the programs here are written during learning and revision, keeping the code
 
 ## 🧠 Purpose of This Repository
 I use this repository to keep my Python learning structured and organised.  
-It also helps me revise concepts quickly and track my progress over time.
+It helps me revise concepts easily and track my progress over time.
 
-This repo focuses on building strong fundamentals before moving to advanced topics.
+This repo focuses on building strong Python fundamentals before moving to advanced topics.
 
 ---
 
